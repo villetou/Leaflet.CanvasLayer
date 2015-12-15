@@ -1,0 +1,26 @@
+{
+  "name": "Leaflet.Canvas",
+  "description": "full screen canvas layer for Leaflet",
+  "main": "leaflet_canvas_layer.js",
+  "authors": [
+    "CartoDB (bower compatability villtou)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "leaflet",
+    "canvas",
+    "cartodb"
+  ],
+  "homepage": "https://github.com/villetou/Leaflet.CanvasLayer",
+  "moduleType": [
+    "globals"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
